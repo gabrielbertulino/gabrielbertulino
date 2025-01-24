@@ -5,7 +5,7 @@
 Me chamo Gabriel Bertulino, tenho 18 anos e sou de Sáo Paulo. Concluí o ensino médio, com o curso técnico em informática (Montagem e manutenção de software e  Logica da Programação). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia
 
 
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Gabrielbertulino?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
