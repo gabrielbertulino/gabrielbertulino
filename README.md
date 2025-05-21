@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gabriel Vitória Kich, tenho 18 anos e sou de São Paulo. Concluí o ensino médio,
+Me chamo Gabriel, tenho 18 anos e sou de São Paulo. Concluí o ensino médio,
  com o curso técnico em informática (Montagem e Manutenção de Hardwares e Logica Da Programação), estou cursando Análise e Desenvolvimento de Sistemas na UNIP
  Sou apaixonado por  tecnologia 
 
